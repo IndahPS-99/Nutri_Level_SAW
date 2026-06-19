@@ -1,4 +1,4 @@
-# Nutri_Level_SAW
+
 # SPK Kelayakan Susu UHT Low Fat - Metode SAW (Auto-Grade)
 
 Sistem Pendukung Keputusan (SPK) berbasis desktop ini dikembangkan menggunakan bahasa pemrograman **Python** dan pustaka **Tkinter (GUI)**. Sistem ini dirancang untuk mengotomatisasi proses evaluasi dan perangkingan kelayakan konsumsi produk susu UHT kategori *Low Fat* / *Skim Milk* lintas merk di Indonesia menggunakan metode **Simple Additive Weighting (SAW)**.
